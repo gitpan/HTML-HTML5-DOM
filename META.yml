@@ -1,0 +1,43 @@
+---
+abstract: 'implementation of the HTML5 DOM on top of XML::LibXML'
+author:
+  - 'Toby Inkster <tobyink@cpan.org>'
+build_requires:
+  ExtUtils::MakeMaker: 6.59
+  Test::More: 0.61
+configure_requires:
+  ExtUtils::MakeMaker: 6.59
+distribution_type: module
+dynamic_config: 0
+generated_by: 'Module::Install version 1.06'
+keywords: []
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+module_name: HTML::HTML5::DOM
+name: HTML-HTML5-DOM
+no_index:
+  directory:
+    - examples
+    - inc
+    - t
+    - xt
+requires:
+  Capture::Attribute: 0
+  DateTime: 0
+  HTML::HTML5::Parser: 0
+  HTML::HTML5::Writer: 0
+  IO::Detect: 0
+  URI: 0
+  URI::Escape: 0
+  Web::Magic: 0
+  XML::LibXML: 0
+  XML::LibXML::Augment: 0
+  XML::LibXML::QuerySelector: 0
+  perl: 5.10.0
+resources:
+  bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=HTML-HTML5-DOM
+  homepage: https://metacpan.org/release/HTML-HTML5-DOM
+  license: http://dev.perl.org/licenses/
+version: 0.001

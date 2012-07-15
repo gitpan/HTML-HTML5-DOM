@@ -1,0 +1,129 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.68.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 73e812b56b8fae1fb8d449e9f21b8277de462c14 Changes
+SHA1 cc087c3dd6e1b519c680e68cd0231735a68300a0 LICENSE
+SHA1 33ff240209a17168bce032efa6959598e444d4bc MANIFEST
+SHA1 8d48c8d74fe1b56ba64852f514765c31a421ab9d META.yml
+SHA1 aa10c00d7d08978b8fee704d7824ba5d317d9e8f Makefile.PL
+SHA1 0d5ce13887b9ce2bfa72af062575916bc5f3976f NEWS
+SHA1 fb98babab264f52ed93ed895edc27ab39d365fae README
+SHA1 5c525a734e132ff74061686e7287bb420404712c examples/basics.pl
+SHA1 24bb140306782a7abb9888e9585c9c649b4452e7 examples/extending.pl
+SHA1 748e61d600494d18b5732caa3afea117c8cd8a89 examples/xml11.pl
+SHA1 06c410f05488c1612ed66b06d3a86b2580581e4a inc/Module/AutoInstall.pm
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 61ab1dd37e33ddbe155907ce51df8a3e56ac8bbf inc/Module/Install/AutoInstall.pm
+SHA1 c04f94f91fa97b9f8cfb5a36071098ab0e6c78e3 inc/Module/Install/AutoManifest.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 66d3d335a03492583a3be121a7d888f63f08412c inc/Module/Install/Include.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 3b9281ddf7dd6d6f5de0a9642c69333023193c80 inc/Module/Install/Package.pm
+SHA1 9de7b5129351499c048328dfa718d0eab557cf30 inc/Module/Install/TrustMetaYml.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
+SHA1 8d909d81d2f98514d42f67a972a489ff624a4183 inc/Module/Package/Dist/RDF.pm
+SHA1 0e0eed2e69d9583081868cf4f220068d0a018568 inc/Scalar/Util.pm
+SHA1 feb933cefe2e3762e8322bd6071a2499f3440da1 inc/YAML/Tiny.pm
+SHA1 8105c0510a773b56840995fb4dd2dc64fe9ddaee inc/unicore/Name.pm
+SHA1 36df501c7c9b73c282c5174ed54d8283b2f2cbf2 inc/utf8.pm
+SHA1 81800f393a577021ab784bf128f7f92d40482c0a lib/HTML/HTML5/DOM.pm
+SHA1 da735cd846d5ba01ad697f7649141a5b8f3d1160 lib/HTML/HTML5/DOM/HTMLAnchorElement.pod
+SHA1 20341c2d061ee46925a70d97c42391d632eb0c5a lib/HTML/HTML5/DOM/HTMLAreaElement.pod
+SHA1 03e9e1acd1cb347c2c0f864da18d8041d5844c31 lib/HTML/HTML5/DOM/HTMLAudioElement.pod
+SHA1 0d657ccb1f30f2f5eca9eca61ec3b45c50f7e93f lib/HTML/HTML5/DOM/HTMLBRElement.pod
+SHA1 fdc958db1c50f79fd9d139dfea782b300977260a lib/HTML/HTML5/DOM/HTMLBaseElement.pod
+SHA1 9c09839c01bf393de38c91c6f911270981ba2bbc lib/HTML/HTML5/DOM/HTMLBodyElement.pod
+SHA1 649f63c485526d4df1a200cd986b3d1cd912cef8 lib/HTML/HTML5/DOM/HTMLButtonElement.pod
+SHA1 c4b1504ff587f3d905d7c322775bc0e73d0c9172 lib/HTML/HTML5/DOM/HTMLCanvasElement.pod
+SHA1 b907d8eaa3343c467fb5a993e1fa8377ced7925d lib/HTML/HTML5/DOM/HTMLCollection.pod
+SHA1 488b3ccca77e2bc5b15074ae328755608e9d10ab lib/HTML/HTML5/DOM/HTMLCommandElement.pod
+SHA1 3ee7e01033f2de295fa3890e61a6a8eb4109ef51 lib/HTML/HTML5/DOM/HTMLDListElement.pod
+SHA1 09b5374a1ea987bdd961a1765d0a6b8bc43ed3f7 lib/HTML/HTML5/DOM/HTMLDataListElement.pod
+SHA1 d9f9266a5027aae94e28ca5978746ad84b2ee6db lib/HTML/HTML5/DOM/HTMLDetailsElement.pod
+SHA1 edc14eb2757d894ccb30ea28e59c37371dab15b1 lib/HTML/HTML5/DOM/HTMLDivElement.pod
+SHA1 dceef6a3c2cac77a94d7f89bf0d5ecf477fb5825 lib/HTML/HTML5/DOM/HTMLDocument.pod
+SHA1 38d734bb6baebcebdac2a6b4e86d4a98867cb60d lib/HTML/HTML5/DOM/HTMLElement.pod
+SHA1 8cc5de12d3583ed72284cedd7e1cf3e21328502f lib/HTML/HTML5/DOM/HTMLEmbedElement.pod
+SHA1 f896bbec03c7709c613e1d3e0f312af92669544a lib/HTML/HTML5/DOM/HTMLFieldSetElement.pod
+SHA1 8a653339df56f13fe7ef67f3a37a446007d016e1 lib/HTML/HTML5/DOM/HTMLFormControlsCollection.pod
+SHA1 bb08f70d496051c35c6cd2f114ccc21f6143eedd lib/HTML/HTML5/DOM/HTMLFormElement.pod
+SHA1 a0c3f61798d25bf74d79d5e6c15cace10643d38d lib/HTML/HTML5/DOM/HTMLHRElement.pod
+SHA1 1f1a288c0dd37701dc34539bc708f5006a9b6910 lib/HTML/HTML5/DOM/HTMLHeadElement.pod
+SHA1 61dd68ff74a5a356bd8693e5d8e996f97a872579 lib/HTML/HTML5/DOM/HTMLHeadingElement.pod
+SHA1 320ada232df4816374c5f58326ad4ce8f23738b5 lib/HTML/HTML5/DOM/HTMLHtmlElement.pod
+SHA1 6d204d5d662d1e266d8dfbbfbe289b7338ddf5b5 lib/HTML/HTML5/DOM/HTMLIFrameElement.pod
+SHA1 5cf29865748ccbbbc60c3f05275b46ad88e73a04 lib/HTML/HTML5/DOM/HTMLImageElement.pod
+SHA1 b1471e27f4a1f718858c37c4ed1c066043fce8e3 lib/HTML/HTML5/DOM/HTMLInputElement.pod
+SHA1 6a31438ff99486a5a0d8003e1f7384813ca272ff lib/HTML/HTML5/DOM/HTMLKeygenElement.pod
+SHA1 a73a5cb7cce5520b8917147bce4638e272db2038 lib/HTML/HTML5/DOM/HTMLLIElement.pod
+SHA1 b832299febc7220ced3cc95ee7c1f45ee4c17ea4 lib/HTML/HTML5/DOM/HTMLLabelElement.pod
+SHA1 b96a1c53625e2c5d4bae22f2a96f07e270430423 lib/HTML/HTML5/DOM/HTMLLegendElement.pod
+SHA1 1dcd03afcc66504a34784df390f2d3697d459b79 lib/HTML/HTML5/DOM/HTMLLinkElement.pod
+SHA1 90fa18ad4d83c48f99146e7a05bb8cdd353af9e1 lib/HTML/HTML5/DOM/HTMLMapElement.pod
+SHA1 144b6c0b26b833e2cccfff27e6c7854c0aa7df1e lib/HTML/HTML5/DOM/HTMLMediaElement.pod
+SHA1 13b68d846e32f112eeee81cfc3d69fa5997798f4 lib/HTML/HTML5/DOM/HTMLMenuElement.pod
+SHA1 f5f84fe3a3ea48de607ac417f0c24b503a43c1cb lib/HTML/HTML5/DOM/HTMLMetaElement.pod
+SHA1 1dec6992cb5e307c7857589005a0e1d40393c427 lib/HTML/HTML5/DOM/HTMLMeterElement.pod
+SHA1 f549e0d1c27de7ece42da3944f40168e48eb5d12 lib/HTML/HTML5/DOM/HTMLModElement.pod
+SHA1 4709ceebf1e82f726168e4256ccb1f1ae6afc056 lib/HTML/HTML5/DOM/HTMLOListElement.pod
+SHA1 3e431abd9ff4d6de71f00de866bdd9b38ed80f3f lib/HTML/HTML5/DOM/HTMLObjectElement.pod
+SHA1 360ffc840589fb9ddb6cdd64a81575876ee5eff8 lib/HTML/HTML5/DOM/HTMLOptGroupElement.pod
+SHA1 86ed2a76c0d270252e3b462adc730374e4ee22a5 lib/HTML/HTML5/DOM/HTMLOptionElement.pod
+SHA1 831e202f7a2a90810875d0a6427fefc9b4a9433d lib/HTML/HTML5/DOM/HTMLOutputElement.pod
+SHA1 ac1fd88629afd38dae9eb0cd53ed4ad248b8a8dd lib/HTML/HTML5/DOM/HTMLParagraphElement.pod
+SHA1 90b5e1aa296fd39af947369a963a4d95e4e7dea7 lib/HTML/HTML5/DOM/HTMLParamElement.pod
+SHA1 7143b4d2f2123b51fe067fadb4875545f1c260a7 lib/HTML/HTML5/DOM/HTMLPreElement.pod
+SHA1 510dde154f1642463fc320a417a99c28b897c7db lib/HTML/HTML5/DOM/HTMLProgressElement.pod
+SHA1 716f8a2234f266a2233d822bf5d5b967fc6ebf9e lib/HTML/HTML5/DOM/HTMLQuoteElement.pod
+SHA1 ae947c0dc6f56bf01baf1c91963ea5682a986a0a lib/HTML/HTML5/DOM/HTMLScriptElement.pod
+SHA1 16769e77da0779c6432b47b6ae9c55090d47b3c7 lib/HTML/HTML5/DOM/HTMLSelectElement.pod
+SHA1 daef12aa3fff1d5af5965c1bc206849a4ed3d9d3 lib/HTML/HTML5/DOM/HTMLSourceElement.pod
+SHA1 f76b7f1047e88186beb728a85703ad38446161ae lib/HTML/HTML5/DOM/HTMLSpanElement.pod
+SHA1 8dd015e47c6ab5478d49cac3221720477ad689b8 lib/HTML/HTML5/DOM/HTMLStyleElement.pod
+SHA1 d0f20c395bfa09bee0063d8324705dbd4c17c937 lib/HTML/HTML5/DOM/HTMLTableCaptionElement.pod
+SHA1 918a254f393970acf870b4e3a3a043f414c51a4d lib/HTML/HTML5/DOM/HTMLTableCellElement.pod
+SHA1 2b3afed48f3809751523e449d8b4edf484b7f582 lib/HTML/HTML5/DOM/HTMLTableColElement.pod
+SHA1 7e81ebb7a3d7080f6798eddab78863f04bd4df48 lib/HTML/HTML5/DOM/HTMLTableDataCellElement.pod
+SHA1 742e5971c4fa9b4bb2e33e2ebb8bcee4d9f70863 lib/HTML/HTML5/DOM/HTMLTableElement.pod
+SHA1 1ca0c577a4117a63202ab3b8454dd3057ff5af4c lib/HTML/HTML5/DOM/HTMLTableHeaderCellElement.pod
+SHA1 09ed6b433724bcac6fb2e6232fb2e0c16ec05214 lib/HTML/HTML5/DOM/HTMLTableRowElement.pod
+SHA1 54366dde86e4f05e446796775ce660ad3938487d lib/HTML/HTML5/DOM/HTMLTableSectionElement.pod
+SHA1 efbd37d71e05399319d9f8b46a16821b1a5c461e lib/HTML/HTML5/DOM/HTMLTextAreaElement.pod
+SHA1 f88ccd2ae9bbbed205a836b4e4fd66a4ffe8c763 lib/HTML/HTML5/DOM/HTMLTimeElement.pod
+SHA1 66a7c911b04a854bbcd47c675f677014e4323f48 lib/HTML/HTML5/DOM/HTMLTitleElement.pod
+SHA1 09f7b466b05c3115c2f4e67cc82af0dff8c64f02 lib/HTML/HTML5/DOM/HTMLTrackElement.pod
+SHA1 a3059c412191775189c53a74f4b0fc5192871c0f lib/HTML/HTML5/DOM/HTMLUListElement.pod
+SHA1 2bcc7acdd264dc89ea194686f37c5683b97377d7 lib/HTML/HTML5/DOM/HTMLUnknownElement.pod
+SHA1 f6c3d0d7fcb0391a53b218bee4402bcb93d4eea6 lib/HTML/HTML5/DOM/HTMLVideoElement.pod
+SHA1 969e5c00e80d5da7604ba72a0de6616906098d3e lib/HTML/HTML5/DOM/RadioNodeList.pod
+SHA1 1614dea4a01870b4b2c1b829a7420f4362a613c8 lib/HTML/HTML5/DOM/ReleaseNotes.pod
+SHA1 c58adb3d5c72b53a9915ccccc96f764fba369161 meta/changes.pret
+SHA1 eebd5ba48235fbb9a56de9a11c5fadd0f1d85464 meta/doap.pret
+SHA1 efc1551b9c9c29aff620b8ae20a1a6f66910f830 meta/makefile.pret
+SHA1 b1c73d3bd474cbc20b9b10c5c6c8a9262a822026 t/01basic.t
+SHA1 e2f490407d2a6f3ce2df477292767a7a1e29e161 t/02simple.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (GNU/Linux)
+
+iEYEARECAAYFAlADMaYACgkQzr+BKGoqfTnrSACgjMYM0KdY2d0uT7OjsLzJucfv
+idUAmgIITUloevg4JpMGg1udzJXPD6sx
+=Y8og
+-----END PGP SIGNATURE-----
